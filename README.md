@@ -12,5 +12,5 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 
-![DX1 OHV}H$698(60JFGT5WA](https://github.com/user-attachments/assets/50beb267-aaab-4dfe-b772-2cebc376e1db)
+
 
